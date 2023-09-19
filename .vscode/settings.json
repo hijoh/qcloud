@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "esp_qcloud_iothub.h": "c",
+        "esp_qcloud_storage.h": "c",
+        "esp_qcloud_console.h": "c",
+        "lightbulb.h": "c",
+        "esp_qcloud_log.h": "c"
+    }
+}
